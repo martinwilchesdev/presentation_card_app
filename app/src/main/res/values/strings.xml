@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PresentationCard</string>
+    <string name="name">MARTIN WILCHES</string>
+    <string name="title">Android Developer</string>
+    <string name="phone_number">+57 302 463 1662</string>
+    <string name="email">martindotdev@gmail.com</string>
+    <string name="image_description">Android Logo</string>
+</resources>
