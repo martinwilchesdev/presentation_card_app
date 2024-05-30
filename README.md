@@ -1,4 +1,4 @@
-# Presentation Card Application 🎂
+# Presentation Card Application 🪪
 
 - Android Studio
 - Jetpack Compose
